@@ -1,10 +1,10 @@
 # Site settings
-title: 烟花的博客                                                  # 博客的标题
-SEOTitle: 烟花的博客                                   # 显示在浏览器上搜索的时候显示的标题
+title: 逍遥的博客                                                  # 博客的标题
+SEOTitle: 逍遥的博客                                   # 显示在浏览器上搜索的时候显示的标题
 header-img: img/post-bg-coffee.jpeg                                # 显示在首页的背景图片
 email: zhangweisep@gmail.com                                       # 邮箱地址
 description: "Every failure is leading towards success."           # 网站介绍
-keyword: "BY, BY Bing, 烟花的博客, zhangweisep, 烟花, Java"     # 关键词
+keyword: "逍遥的博客, zhangweisep, 逍遥, Java"     # 关键词
 url: "https://zhangweisep.github.io/"                             # 博客的地址
 baseurl: ""                                                        # 博客的托管地址
 github_repo: "https://github.com/ZhangWeiSep/zhangweisep.github.io.git" # git代码仓库
@@ -15,9 +15,9 @@ future: true                                                       #发布未来
 # SNS settings
 RSS: false
 #weibo_username:     5629222395
-#zhihu_username:     leng-xiao-bing-63
-#github_username:    Lengxiaobing
-#jianshu_username:   f5acf99d021c
+#zhihu_username:
+github_username:    ZhangWeiSep
+jianshu_username:   zhangweisep
 #twitter_username:
 #facebook_username:
 #linkedin_username:
@@ -65,9 +65,9 @@ gitalk:
   enable: true                                              #是否开启Gitalk评论
   clientID: 35868e6b4c40c05c1512                            #生成的clientID
   clientSecret: 2adebe65502a2922717e15e81d368c2feb111485    #生成的clientSecret
-  repo: lengxiaobing.github.io                              #仓库名称
-  owner: Lengxiaobing                                       #github用户名
-  admin: Lengxiaobing
+  repo: zhangweisep.github.io                              #仓库名称
+  owner: ZhangWeiSep                                       #github用户名
+  admin: ZhangWeiSep
   distractionFreeMode: true                                 #是否启用类似FB的阴影遮罩
 
 # Netease settings
