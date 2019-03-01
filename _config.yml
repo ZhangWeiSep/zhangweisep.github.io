@@ -77,10 +77,10 @@ netease_comment: false
 # 访问统计
 # Analytics settings
 # Baidu Analytics 
-ba_track_id: e17c2f7ae27d3d0d9000180aca5ac72c
+ba_track_id: e7dadf21ad7b29757c886a7bffd3a5d7
 
 # Google Analytics
-ga_track_id: 'UA-135067536-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-135441379-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto                          # 自定义的域名，默认的是 auto
 
 
