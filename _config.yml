@@ -15,7 +15,7 @@ future: true                                                       #发布未来
 # SNS settings
 RSS: false
 #weibo_username:     5629222395
-zhihu_username:    zhangweisep
+zhihu_username:    zhang-wei-74-88-35
 github_username:    ZhangWeiSep
 #gitee_username:    ZhangWeiSep
 jianshu_username:   f464b7ee9a9d
@@ -59,7 +59,7 @@ kramdown:
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-#disqus_username: 冷小冰
+#disqus_username: 逍遥
 
 # Gitalk
 gitalk:
