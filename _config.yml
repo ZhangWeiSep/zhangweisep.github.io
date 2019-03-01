@@ -15,9 +15,9 @@ future: true                                                       #发布未来
 # SNS settings
 RSS: false
 #weibo_username:     5629222395
-#zhihu_username:
+zhihu_username:    zhangweisep
 github_username:    ZhangWeiSep
-gitee_username:    ZhangWeiSep
+#gitee_username:    ZhangWeiSep
 jianshu_username:   f464b7ee9a9d
 #twitter_username:
 #facebook_username:
