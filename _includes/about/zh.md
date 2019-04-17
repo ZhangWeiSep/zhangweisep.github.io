@@ -2,7 +2,7 @@
 > 地势坤 君子以厚德载物
 
 这是我的利用[GitHub Pages](https://pages.github.com/)与[jekyll](http://jekyll.com.cn/")搭建的个人博客。
-我的[👉GitHub](https://github.com/Lengxiaobing/lengxiaobing.github.io.git)主页。如果有什么问题，欢迎提出探讨~
+我的[👉GitHub](https://github.com/ZhangWeiSep/zhangweisep.github.io)主页。如果有什么问题，欢迎提出探讨~
 
 
 ##### Talks
