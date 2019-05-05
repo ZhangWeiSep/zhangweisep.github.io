@@ -4,7 +4,7 @@ SEOTitle: 逍遥的博客                                   # 显示在浏览器
 header-img: img/post-bg-coffee.jpeg                                # 显示在首页的背景图片
 email: zhangweisep@gmail.com                                       # 邮箱地址
 description: "Every failure is leading towards success."           # 网站介绍
-keyword: "逍遥的博客, zhangweisep.github.io, zhangweisep, 逍遥, Java"     # 关键词
+keyword: "逍遥的博客, zhangweisep.github.io, zhangweisep, ZhangWeiSep, 逍遥, Java"     # 关键词
 url: "https://zhangweisep.github.io/"                             # 博客的地址
 baseurl: ""                                                        # 博客的托管地址
 github_repo: "https://github.com/ZhangWeiSep/zhangweisep.github.io.git" # git代码仓库
@@ -17,7 +17,7 @@ RSS: false
 #weibo_username:     5629222395
 zhihu_username:    zhang-wei-74-88-35
 github_username:    ZhangWeiSep
-#gitee_username:    ZhangWeiSep
+gitee_username:    ZhangWeiSep
 jianshu_username:   f464b7ee9a9d
 #twitter_username:
 #facebook_username:
@@ -117,5 +117,17 @@ friends: [
 {
   title: "GitHub",
   href: "https://github.com"
+},
+{
+  title: "知乎",
+  href: "https://www.zhihu.com"
+},
+{
+  title: "掘金",
+  href: "https://juejin.im"
+},
+{
+  title: "开源中国",
+  href: "https://www.oschina.net"
 }
 ]
