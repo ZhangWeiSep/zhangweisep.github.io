@@ -8,7 +8,9 @@ header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - SpringCloud
+
 ---
+
 最近在做spring cloud的网关升级，遇到了各种各样奇怪的问题，在此做个记录，以防后面在遇到类似问题，好有个解决方案。
 
 也希望能对一起在技术道路上摸爬滚打的同道有所帮助。
