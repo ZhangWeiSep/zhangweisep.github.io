@@ -7,7 +7,7 @@ author:     逍遥
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
-    - Spring Cloud
+    - SpringCloud
 ---
 最近在做spring cloud的网关升级，遇到了各种各样奇怪的问题，在此做个记录，以防后面在遇到类似问题，好有个解决方案。
 
